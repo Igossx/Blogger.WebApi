@@ -50,7 +50,7 @@ The Blogger Project with login and registration system is a simple, interactive 
 ## Screenshots
 
 ### Swagger
-![Accounts Controller](images/AccountsController.png)
+![Accounts Controller](images/AccountController.png)
 ![Posts Controller](images/CommentsController.png)
 ![Comments Controller](images/PostsController.png)
 
