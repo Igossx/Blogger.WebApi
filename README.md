@@ -60,6 +60,6 @@ The Blogger Project with login and registration system is a simple, interactive 
 Project is: **Finished**.
 
 ## Contact
-Created by [@Igossx](https://www.github.com/igossx) - feel free to contact me!
+Created by [@Igossx](https://www.github.com/igossx).
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-tarasinski)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-tarasinski) - feel free to contact me!
