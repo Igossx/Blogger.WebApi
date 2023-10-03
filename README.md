@@ -16,12 +16,12 @@ The Blogger Project with login and registration system is a simple, interactive 
 - EntityFrameworkCore - version 7.0.3
 - Fluent Validation - version 11.0
 - NLog - version 5.2.4
-- 
+  
 ### Architecture 
 - Clean Architecture with CQRS
 
 ### Project Patterns
-- MediatR
+- Mediator
 
 ## Features
 
@@ -32,30 +32,27 @@ The Blogger Project with login and registration system is a simple, interactive 
 - Get users accounts
 
 ### Comments Controller
-- Create Allergen
-- Delete Allergen
-- Get Allergens from query
-- Get Allergen by Id
-- Update Allergen
+- Create comment
+- Delete comment
+- Update comment
+- Get comments
+- Get comment by Id
+- Get comments by DateQuery
 
 ### Posts Controller
-- Create Dish
-- Delete Dish
-- Get Dish by Id
-- Get Dishes from restaurant
-- Get user personalized dishes from restaurant
-- Update dish details
+- Create post
+- Delete post
+- Update post
+- Get post by Id
+- Get post by EncodedTitle
+- Get post details
 
 ## Screenshots
 
 ### Swagger
-![Account Controller](src/swagger1.png)
-![Allergen Controller](src/swagger2.png)
-![Dish Controller](src/swagger3.png)
-![Ingredient Controller](src/swagger4.png)
-![Order Controller](src/swagger5.png)
-![Restaurant Controller](src/swagger6.png)
-![SpecialDiet Controller](src/swagger7.png)
+![Accounts Controller](src/swagger1.png)
+![Posts Controller](src/swagger2.png)
+![Comments Controller](src/swagger3.png)
 
 
 
@@ -64,4 +61,5 @@ Project is: **Finished**.
 
 ## Contact
 Created by [@Igossx](https://www.github.com/igossx) - feel free to contact me!
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-tarasinski)
