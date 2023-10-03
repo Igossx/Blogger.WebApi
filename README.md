@@ -10,10 +10,10 @@ The Blogger Project with login and registration system is a simple, interactive 
 
 ## Technologies Used
 - .Net - version 7.0
-- AspNetCore - version 7.0.3
-- AutoMapper - version 12.0.0
+- Asp Net Core - version 7.0.3
+- Auto Mapper - version 12.0.0
 - MediatR - version 12.0.1
-- EntityFrameworkCore - version 7.0.3
+- Entity Framework Core - version 7.0.3
 - Fluent Validation - version 11.0
 - NLog - version 5.2.4
   
