@@ -14,64 +14,37 @@ The Blogger Project with login and registration system is a simple, interactive 
 - AutoMapper - version 12.0.0
 - MediatR - version 12.0.1
 - EntityFrameworkCore - version 7.0.3
+- Fluent Validation - version 11.0
+- NLog - version 5.2.4
 - 
 ### Architecture 
 - Clean Architecture with CQRS
 
+### Project Patterns
+- MediatR
+
 ## Features
 
-### Account Controller
+### Accounts Controller
 - Register user account
 - Login to user account
-- Update user details
 - Delete user account
-- Change user role
+- Get users accounts
 
-### Allergen Controller
+### Comments Controller
 - Create Allergen
 - Delete Allergen
 - Get Allergens from query
 - Get Allergen by Id
 - Update Allergen
 
-### Dish Controller
+### Posts Controller
 - Create Dish
 - Delete Dish
 - Get Dish by Id
 - Get Dishes from restaurant
 - Get user personalized dishes from restaurant
 - Update dish details
-
-### Ingredient Controller
-- Add ingredient to Dish
-- Delete ingredient from dish
-- Get ingredient by id
-- Get dish ingredients
-- Update ingredient details
-
-### Order Controller
-- Create Order
-- Add dish to Order
-- Get Order by Id
-- Get orders from restaurant which ordered status
-- Change order status
-
-### Restaurant Controller
-- Create Restaurant
-- Delete Restaurant
-- Get Restaurant from query
-- Get Restaurant by id
-- Update restaurant details
-
-### SpecialDiet Controller
-- Create Diet
-- Delete Diet
-- Added Diet to allowed for diet dish property
-- Update Diet details
-
-
-
-
 
 ## Screenshots
 
@@ -87,14 +60,8 @@ The Blogger Project with login and registration system is a simple, interactive 
 
 
 ## Project Status
-Project is: Finished
-
-
-
-
-
-
-
+Project is: **Finished**.
 
 ## Contact
-Created by [@WojciechLiszka](https://www.linkedin.com/in/wojciech-liszka-576445268/) - feel free to contact me!
+Created by [@Igossx](https://www.github.com/igossx) - feel free to contact me!
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-tarasinski)
