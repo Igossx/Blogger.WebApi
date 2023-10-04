@@ -2,12 +2,8 @@ using Infrastructure.Seeders;
 using Infrastructure.Extensions;
 using Application.Extensions;
 using Application.Middleware;
-using FluentValidation.AspNetCore;
 using System.Text.Json.Serialization;
-using Newtonsoft.Json.Converters;
 using Blogger.Converters;
-using NLog.Web;
-using NLog;
 
 var builder = WebApplication.CreateBuilder(args);
 

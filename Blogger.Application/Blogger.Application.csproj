@@ -19,7 +19,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\Domain\Blogger.Domain.csproj" />
+	  <ProjectReference Include="..\Blogger.Domain\Blogger.Domain.csproj" />
 	</ItemGroup>
 
 </Project>
